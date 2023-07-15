@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469478651288",
+    "project_id": "rohithsampleflutter",
+    "storage_bucket": "rohithsampleflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469478651288:android:40d9732a14d9e52fa5a7ed",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469478651288-3j19la2d4oqmpbslk8rsamjs6hcsferj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyu21twT7W5JK7OQvqPAIxb3C6LKqesM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469478651288-3j19la2d4oqmpbslk8rsamjs6hcsferj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
